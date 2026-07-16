@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Inga Laas">
-<meta name="author" content="Nils Ratnaweera">
 
-<title>Info #1 – Sommerfest 2024</title>
+<title>Sommerfest – Sommerfest Ausgabe 2026</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -28,28 +26,31 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-a5ff8e19430821c52854d73b0b419178.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-a5ff8e19430821c52854d73b0b419178.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "sidebar",
+  "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "start",
-  "type": "textbox",
+  "panel-placement": "end",
+  "type": "overlay",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -71,65 +72,272 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Suchen"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../styles.css">
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Sommerfest Ausgabe 2026</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Suchen"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navigation umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./zeitplan.html"> 
+<span class="menu-text">Zeitplan</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./2024.html" aria-current="page"> 
+<span class="menu-text">Ausgabe 2024</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Info #1</h1>
-            <p class="subtitle lead">Wir werden den Channel die nächsten Tage und Wochen regelmässig mit Infos füttern.</p>
+    <div class="quarto-title column-page">
+      <h1 class="title">Sommerfest</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page">
 
-      <div>
-      <div class="quarto-title-meta-heading">Autor:innen</div>
-      <div class="quarto-title-meta-contents">
-               <p>Inga Laas </p>
-               <p>Nils Ratnaweera </p>
-            </div>
-    </div>
       
-      <div>
-      <div class="quarto-title-meta-heading">Veröffentlichungsdatum</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">12. Juli 2024</p>
-      </div>
-    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
 
 
-<p>Um das drohende Sommerloch zu füllen, haben wir kurzerhand beschlossen umzuziehen. Wir haben ja sonst nichts zu tun, es macht wahnsinnig Spass und ausserdem konnten wir so die Location zu unserem Zuhause machen - oder umgekehrt:</p>
-<p><strong>Unser Zuhause ist die Location!</strong> Nach Wochen Kistenschleppen und Umzugschaos tauchen wir wieder auf: Mit ein paar Muckis mehr, fresh und in Partystimmung 😉</p>
-<p>Wir empfangen Euch vom 05.08. bis 11.08.24 in unserem neuen Zuhause in der Langrütistrasse 40 in 8820 Wädenswil.</p>
-<p>Bleibt up to date &amp; take care</p>
-<p>XXLove Inga &amp; Nils, Ronja &amp; Paula, Smilla &amp; Béla</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1722204000000" data-listing-file-modified-sort="1784229286451" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="38">
+<div class="thumbnail"><a href="./ausgabe-2024/nr-4/index.html" class="no-external">
+
+<img loading="lazy" src="./ausgabe-2024/nr-4/thumbnail.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./ausgabe-2024/nr-4/index.html" class="no-external">Info #4</a>
+</h3>
+<div class="delink listing-description"><a href="./ausgabe-2024/nr-4/index.html" class="no-external">
+Alle die<br> A) 😴 Übernachten <br> und/oder<br> B) 🍽️ an der Festtafel am Samstag dabei sein wollen - bitte meldet Euch an.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./ausgabe-2024/nr-4/index.html" class="no-external">
+<div class="listing-date">
+29.07.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1722117600000" data-listing-file-modified-sort="1784229657680" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<div class="thumbnail"><a href="./ausgabe-2024/nr-5/index.html" class="no-external">
+
+<img loading="lazy" src="./ausgabe-2024/nr-5/thumbnail.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./ausgabe-2024/nr-5/index.html" class="no-external">Info #5</a>
+</h3>
+<div class="delink listing-description"><a href="./ausgabe-2024/nr-5/index.html" class="no-external">
+Für die beiden Discos 🕺🏻👯‍♀️(Ü3 und Ü30 Party) suchen 🔎 wir:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./ausgabe-2024/nr-5/index.html" class="no-external">
+<div class="listing-date">
+28.07.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1721944800000" data-listing-file-modified-sort="1784229286450" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
+<div class="thumbnail"><a href="./ausgabe-2024/nr-3/index.html" class="no-external">
+
+<img loading="lazy" src="./ausgabe-2024/nr-3/thumbnail.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./ausgabe-2024/nr-3/index.html" class="no-external">Info #3</a>
+</h3>
+<div class="delink listing-description"><a href="./ausgabe-2024/nr-3/index.html" class="no-external">
+Für die Festwoche gibt es Tagsüber 🌞 und Abends 🌙 ein paar Glanzpunkte:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./ausgabe-2024/nr-3/index.html" class="no-external">
+<div class="listing-date">
+26.07.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1721599200000" data-listing-file-modified-sort="1784229286450" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
+<div class="thumbnail"><a href="./ausgabe-2024/nr-2/index.html" class="no-external">
+
+<img loading="lazy" src="./ausgabe-2024/nr-2/thumbnail.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./ausgabe-2024/nr-2/index.html" class="no-external">Info #2</a>
+</h3>
+<div class="delink listing-description"><a href="./ausgabe-2024/nr-2/index.html" class="no-external">
+Hier eine Packliste für die Preppies unter euch:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./ausgabe-2024/nr-2/index.html" class="no-external">
+<div class="listing-date">
+22.07.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1720735200000" data-listing-file-modified-sort="1784229286448" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
+<div class="thumbnail"><a href="./ausgabe-2024/nr-1/index.html" class="no-external">
+
+<img loading="lazy" src="./ausgabe-2024/nr-1/thumbnail.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./ausgabe-2024/nr-1/index.html" class="no-external">Info #1</a>
+</h3>
+<div class="delink listing-description"><a href="./ausgabe-2024/nr-1/index.html" class="no-external">
+Um das drohende Sommerloch zu füllen, haben wir kurzerhand beschlossen umzuziehen. Wir haben ja sonst nichts zu tun, es macht wahnsinnig Spass und ausserdem konnten wir so…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./ausgabe-2024/nr-1/index.html" class="no-external">
+<div class="listing-date">
+12.07.2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1714514400000" data-listing-file-modified-sort="1784229286448" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
+<div class="thumbnail"><a href="./ausgabe-2024/nr-0/index.html" class="no-external">
+
+<img loading="lazy" src="./ausgabe-2024/nr-0/thumbnail.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./ausgabe-2024/nr-0/index.html" class="no-external">Einladung Sommerfest 2024</a>
+</h3>
+<div class="delink listing-description"><a href="./ausgabe-2024/nr-0/index.html" class="no-external">
+<strong>Datum</strong>: 05. August bis 11. August 2024
+</a></div>
+</div>
+<div class="metadata">
+<a href="./ausgabe-2024/nr-0/index.html" class="no-external">
+<div class="listing-date">
+01.05.2024
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Keine Treffer</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -203,7 +411,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Sommerfest-Langrueti\.github\.io\/Website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

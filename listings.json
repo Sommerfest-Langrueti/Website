@@ -2,11 +2,20 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/nr-4/index.html",
-      "/posts/nr-3/index.html",
-      "/posts/nr-2/index.html",
-      "/posts/nr-1/index.html",
-      "/posts/nr-0/index.html"
+      "/ausgabe-2026/nr-02/index.html",
+      "/ausgabe-2026/nr-01/index.html",
+      "/ausgabe-2026/nr-00/index.html"
+    ]
+  },
+  {
+    "listing": "/2024.html",
+    "items": [
+      "/ausgabe-2024/nr-4/index.html",
+      "/ausgabe-2024/nr-5/index.html",
+      "/ausgabe-2024/nr-3/index.html",
+      "/ausgabe-2024/nr-2/index.html",
+      "/ausgabe-2024/nr-1/index.html",
+      "/ausgabe-2024/nr-0/index.html"
     ]
   }
 ]

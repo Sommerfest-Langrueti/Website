@@ -1,1 +1,1 @@
-Sitemap: https://Sommerfest-Langrueti.github.io/2024/sitemap.xml
+Sitemap: https://Sommerfest-Langrueti.github.io/Website/sitemap.xml
