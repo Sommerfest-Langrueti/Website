@@ -1,7 +1,7 @@
 ---
 title: "Sommerfest"
 listing:
-  contents: ausgabe-2026
+  contents: ausgabe-2024
   sort: "date desc"
   type: default
   categories: false
@@ -15,3 +15,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+

@@ -2,7 +2,14 @@ project:
   type: website
 
 website:
-  title: "Sommerfest 2024"
+  title: "Sommerfest Ausgabe 2026"
+  navbar: 
+    left: 
+      - text: "Zeitplan"
+        href: "zeitplan.qmd"
+    right: 
+      - text: "Ausgabe 2024"
+        href: "2024.qmd"
 
 lang: de-CH
 format:

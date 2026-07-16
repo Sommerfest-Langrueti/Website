@@ -7,7 +7,7 @@ author:
 image: thumbnail.jpg
 image-width: "100px"
 image-height: "100px"
-date: "2024-07-29"
+date: "2024-07-28"
 ---
 
 <!-- https://pixabay.com/photos/lightbulb-illuminated-lighting-3489395/ -->
