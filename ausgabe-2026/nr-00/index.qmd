@@ -5,7 +5,7 @@ author:
   - Inga Laas
   - Nils Ratnaweera
 image: thumbnail.jpg
-date: "2026-06-30"
+date: "2026-06-20"
 ---
 
 Wir werden den Channel die nächsten Tage und Wochen regelmässig mit Infos füttern. 
