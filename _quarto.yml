@@ -7,6 +7,8 @@ website:
     left: 
       - text: "Zeitplan"
         href: "zeitplan.qmd"
+      - text: "Anreise"
+        href: "anreise.qmd"
     right: 
       - text: "Ausgabe 2024"
         href: "2024.qmd"

@@ -1,0 +1,22 @@
+# Anreise
+
+Wir wohnen an der Langrütistrasse 40, Wädenswil[^home].
+
+**Öffentlicher Verkehr:** Nach Absprache gibt es Abholservice vom Bahnhof Wädenswil[^bhf-waedi]. Nächste Bushaltestelle: Wädenswil, Feld[^waedi-feld].
+
+**Auto:** Kurzfristig parken beim Pavillon[^pavillion]. Für längere Parkzeiten stehen öffentliche Parkplätze bei der St. Anna's Kapelle[^st-annas-kappele] zur Verfügung (~10 Min. Fussweg).
+
+
+{{< include _map.qmd >}}
+
+
+
+[^home]: Langrütistrasse 40: [google maps](https://maps.app.goo.gl/ba34CYrTu24eViqM8) / [osm](https://www.openstreetmap.org/?#map=19/47.213814/8.659451)
+
+[^bhf-waedi]:  Bahnhof Wädi: [google maps](https://maps.app.goo.gl/qGCxvWmEtDBYaSfF7) / [osm](https://www.openstreetmap.org/#map=18/47.2292959/8.6751853)
+
+[^waedi-feld]: Wädenswil, Feld: [google maps](https://maps.app.goo.gl/PMDwvDAzXP1td8WYA) / [osm](https://www.openstreetmap.org/?mlat=47.213542&mlon=8.664540#map=19/47.213542/8.664540)
+
+[^pavillion]: Pavillion: [google maps](https://maps.app.goo.gl/REjLALgVxMdtDYXH9) / [osm](https://www.openstreetmap.org/?#map=18/47.213496/8.659407)
+
+[^st-annas-kappele]: St. Anna's Kapelle [google maps](https://maps.app.goo.gl/jc89fLVDkopRd1mD8) / [osm](https://www.openstreetmap.org/?#map=19/47.210365/8.655490)
