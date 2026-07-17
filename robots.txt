@@ -1,1 +1,1 @@
-Sitemap: https://www.sommerfest.fun/sitemap.xml
+Sitemap: https://sommerfest.fun/sitemap.xml
