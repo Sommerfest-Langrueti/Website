@@ -7,7 +7,6 @@
 				<td style="width:141.09375pt;white-space:nowrap;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Do, 23.7</span></td>
 				<td style="width:141.09375pt;white-space:nowrap;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Fr, 24.7</span></td>
 				<td style="width:141.09375pt;white-space:nowrap;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Sa, 25.7</span></td>
-				<td style="width:141.09375pt;white-space:nowrap;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">So, 26.7</span></td>
 			</tr>
 			<tr style="height:80.25pt">
 				<td style="width:60pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Vormittag</span></td>
@@ -15,7 +14,6 @@
 				<td style="width:141.09375pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">😎Chill</span></td>
 				<td colspan="1" rowspan="2" style="width:141.09375pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">🏞️ ‍Ausflug</span></td>
 				<td style="width:141.09375pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">🧘Yoga (ab 10h)</span></td>
-				<td colspan="1" rowspan="2" style="width:141.09375pt;white-space:normal;text-align:center;vertical-align:middle;border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Brunch &amp; Abschluss😢</span></td>
 			</tr>
 			<tr style="height:40.5pt">
 				<td colspan="1" rowspan="2" style="width:60pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Nachmittag</span></td>
@@ -25,7 +23,6 @@
 			<tr style="height:40.5pt">
 				<td style="width:141.09375pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">🍰Kaffee&amp;Kuchen (16h)</span></td>
 				<td style="width:141.09375pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">💃Tanzshow (16h)</span></td>
-				<td style="width:141.09375pt;white-space:normal;vertical-align:middle;border-left:1px solid rgb(0,0,0);background-color:rgb(216,216,216);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;"></span></td>
 			</tr>
 			<tr style="height:80.25pt">
 				<td style="width:60pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Abend</span></td>
@@ -50,7 +47,6 @@
 						🎉 Party (21h)
 					</span>
 				</td>
-				<td style="width:141.09375pt;white-space:normal;vertical-align:middle;border-bottom:1px solid rgb(63,63,63);border-left:1px solid rgb(0,0,0);background-color:rgb(216,216,216);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;"></span></td>
 			</tr>
 		</table>
 	</body>
