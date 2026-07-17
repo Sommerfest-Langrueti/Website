@@ -6,7 +6,7 @@ website:
   navbar: 
     left: 
       - text: "Programm"
-        href: "Programm.qmd"
+        href: "programm.qmd"
       - text: "Anreise"
         href: "anreise.qmd"
     right: 
