@@ -1,64 +1,11 @@
 ## Zeitplan
 
-(aktuelle Version)
+Wir haben uns für das Fest folgendes Programm überlegt. Natürlich ist alles freiwillig und kann auch spontant angepasst werden. An ein paar Eckpunkte werden wir uns möglichst halten.
 
-<html>
-	<body>
-		<table cellpadding="0" cellspacing="0" style="border-collapse: collapse;font-family:Arial;font-size:10pt;color:#000;background-color:transparent;">
-			<tr style="height:22.5pt">
-				<td style="width:99.75pt;white-space:nowrap;vertical-align:bottom;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;"></span></td>
-				<td style="width:99.75pt;white-space:nowrap;vertical-align:bottom;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Mi, 22.7</span></td>
-				<td style="width:99.75pt;white-space:nowrap;vertical-align:bottom;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Do, 23.7</span></td>
-				<td style="width:99.75pt;white-space:nowrap;vertical-align:bottom;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Fr, 24.7</span></td>
-				<td style="width:99.75pt;white-space:nowrap;vertical-align:bottom;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Sa, 25.7</span></td>
-				<td style="width:99.75pt;white-space:nowrap;vertical-align:bottom;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">So, 26.7</span></td>
-			</tr>
-			<tr style="height:78pt">
-				<td style="width:99.75pt;white-space:normal;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Vormittag</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(216,216,216);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;"></span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Anreise</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Wanderung</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Yoga (ca. 10h)</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);">
-					<span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">
-						Brunch (ca. 10h)
-						<br />
-						<br />
-						Abschluss (ca 12)
-					</span>
-				</td>
-			</tr>
-			<tr style="height:78pt">
-				<td style="width:99.75pt;white-space:normal;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Nachmittag</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Anreise</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">See</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);">
-					<span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">
-						Wanderung
-						<br />
-						<br />
-						ab 16h Kaffee&amp;Kuchen
-					</span>
-				</td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Tanzshow (ca. 16h)</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(216,216,216);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;"></span></td>
-			</tr>
-			<tr style="height:78pt">
-				<td style="width:99.75pt;white-space:normal;vertical-align:middle;border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(122,213,146);"><span style="vertical-align:baseline;">Abend</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Grillabend</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Lagerfeuer &amp; Spiele</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);"><span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">Abendessen, Spiele, Lagefeuer</span></td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(0,0,0);border-bottom:1px solid rgb(0,0,0);border-left:1px solid rgb(0,0,0);border-top:1px solid rgb(0,0,0);background-color:rgb(198,239,206);">
-					<span style="color:rgb(0,97,0);font-size:11pt;vertical-align:baseline;">
-						Konzert (ca. 17h)
-						<br />
-						Festtafel (ca 19h)
-						<br />
-						Party ab 21h
-					</span>
-				</td>
-				<td style="width:99.75pt;white-space:normal;text-align:center;vertical-align:middle;border-right:1px solid rgb(63,63,63);border-bottom:1px solid rgb(63,63,63);border-left:1px solid rgb(63,63,63);border-top:1px solid rgb(63,63,63);background-color:rgb(242,242,242);"><span style="color:rgb(63,63,63);font-size:11pt;font-weight:bold;vertical-align:baseline;"></span></td>
-			</tr>
-		</table>
-	</body>
-</html>
+:::{.column-body-outset}
+{{< include _zeitplan-html.qmd >}}
+
+:::
+
+
+(aktuelle Version vom 17.07.2026)
