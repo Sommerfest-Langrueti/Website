@@ -5,8 +5,8 @@ website:
   title: "Sommerfest Ausgabe 2026"
   navbar: 
     left: 
-      - text: "Zeitplan"
-        href: "zeitplan.qmd"
+      - text: "Programm"
+        href: "Programm.qmd"
       - text: "Anreise"
         href: "anreise.qmd"
     right: 
