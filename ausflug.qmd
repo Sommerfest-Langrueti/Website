@@ -1,9 +1,12 @@
 ---
 title: Ausflug
+subtitle: Freitag, 24.7
 alias: 
     - ausflug
     - Ausflug
 ---
+
+
 
 - 11:00 Uhr vom Festgelände los laufen
 - 11:22 Bus in Wädenswil, Feld (Nils besorgt Tickets zum abstempeln), siehe [SBB](https://www.sbb.ch/de?stops=W%C3%A4denswil%2C+Feld_I8573570%7ESch%C3%B6nenberg+ZH%2C+Dorfhuus_I8596115&day=2026-07-24&time=10_12&moment=dep&trip=0_2)
@@ -15,8 +18,8 @@ alias:
 
 Ein paar Hinweise zur Wanderstrecke:
 
-- Für die 5.5km haben wir 2 resp. 4 Stunden eingeplant. Das Tempo ist also sehr gemächlich und auch für Kinder geeignet. Wir nehmen auch ein Bollerwagen ([Ulfbo](images/ulfbo.png)) mit, wo kleinere Kinder sich abwechseln ausruhen können. 
-- Die Strecke ist sehr bedingt kinderwagen Tauglich (nur mit dicken Offroad reifen und genügend Helfer). 
+- Für die 5.5km haben wir 2 resp. 4 Stunden eingeplant (je nach Rückfahrts-Option). Das Tempo ist also sehr gemächlich und auch für Kinder geeignet. Wir nehmen auch einen Bollerwagen ([Ulfbo](images/ulfbo.png)) mit, wo kleinere Kinder sich abwechseln ausruhen können. 
+- Die Strecke ist nur bedingt kinderwagen Tauglich (nur mit dicken Offroad reifen und genügend Helfer). 
 - Auf der Strecke befindet sich das [Restaurant Sihlmatt](https://maps.app.goo.gl/QnNmiE5QRhbFtFUR8), wo man sich ein Eis oder Bierchen kaufen kann.
 - Es gibt auf der Strecken eine schöne Badestelle zum Verweilen (nähe [Sihlsprung](https://maps.app.goo.gl/PLtVbZ7Xjs3zY3P27)). 
 

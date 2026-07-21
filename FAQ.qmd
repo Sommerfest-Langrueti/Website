@@ -17,9 +17,19 @@ In der Wohnung bei Eintritt links hängt eine blaue [Ikea Lixhult](images/ikea-l
 
 ## Entsorgungskonzept: Wo wird was Entsorgt?
 
-- Angeschriebene [Ikea Sorteraboxen](images/ikea-sortera.png) stehen an der Hausrücksetie zur Verfügung für: Glas, Alu, PET, Plastik (Verpackungen und Tetrapack), Karton. 
-- Für Kompost gibt es beim Fahrradständer an der Strasse ein Grüncontainer
-- Restmüll kommt in den Mülleimer links vom Haupteingang
+ 
+- Für Kompost gibt es einen Grünen Container neben der Abwaschstation
+- Restmüll kommt in den Mülleimer links vom Haupteingang. Sollte der voll sein, kann man den in den schwarzen Container beim Veloständer bringen. Frische Säcke liegen im Eimer bereit. Der Vierkantschlüssel für den Mülleimer hängt im Treppenhaus Richtung Keller
+- Mülltrennung: Angeschriebene [Ikea Sorteraboxen](images/ikea-sortera.png) stehen an der Hausrücksetie zur Verfügung für: Glas, Alu, PET, Plastik[^plastik], Karton. Gerne kann man diese wie folgt leeren, sollten sie voll sein:
+  - Glas und Alu: Kurz vor der Bushaltestelle Feld ([google maps](https://maps.app.goo.gl/J6d6NbKkq24hBHZA9)) gibt es eine Entsorgungsstelle für Glas und Alu. Wer Lust und Zeit hat kann gerne mit dem [Bollerwagen](images/ulfbo.png) entsorgen gehen.
+  - PET: Zwischenlagern im Keller in der grossen blauen Tüte
+  - Plastik: Zwischenlagern im Keller, gerne neuen Sack einspannen (ist im Eimer drin)
+  - Karton: Beim Veloständer steht an der Strasse ein schwarzer Kontainer bereit
+
+
+[^plastik]: [Recypac](https://www.recypac.ch/de/mitmachen/sammlung-mit-dem-recybag): Tetrapak, Plastikbeutel, Folien, Tüten, Becher, Schalen
+
+
 
 ## Anfahrt: Wie komme ich zu euch und wo kann ich parkieren?
 
