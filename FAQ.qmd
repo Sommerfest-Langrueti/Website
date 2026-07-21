@@ -9,6 +9,12 @@ Das WLAN ist vor allem im Wohnzimmer verfügbar und lautet `sommerfest-guest` mi
 
 [QR Code](images/wlan.png)
 
+
+## Handy Laden: Wo kann ich das machen? 
+
+In der Wohnung bei Eintritt links hängt eine blaue [Ikea Lixhult](images/ikea-lixhult.png) Box an der Wand, mit vielen Steckplätzen. 
+
+
 ## Entsorgungskonzept: Wo wird was Entsorgt?
 
 - Angeschriebene [Ikea Sorteraboxen](images/ikea-sortera.png) stehen an der Hausrücksetie zur Verfügung für: Glas, Alu, PET, Plastik (Verpackungen und Tetrapack), Karton. 
@@ -18,3 +24,18 @@ Das WLAN ist vor allem im Wohnzimmer verfügbar und lautet `sommerfest-guest` mi
 ## Anfahrt: Wie komme ich zu euch und wo kann ich parkieren?
 
 Siehe "[Anreise](anreise.qmd)"
+
+
+## Drucken: Ich muss etwas ausdrucken - wo kann ich das machen?
+
+Meldet euch bei Lina
+
+## Programm
+
+### Donnerstag: Was für ein Ausflug ist geplant?
+
+Ganz freiwillig ein kleiner Spaziergang. Noch nichts konkretes.
+
+### Freitag: Was für ein Ausflug ist geplant?
+
+Eine kleine Wanderung, ähnlich wie am letzten Fest, siehe [Details](ausflug.qmd)

@@ -11,9 +11,11 @@ website:
         href: "anreise.qmd"
       - text: "FAQ: Häufige Fragen"
         href: "FAQ.qmd"
-    right: 
-      - text: "Ausgabe 2024"
-        href: "2024.qmd"
+      - text: "Ausflug"
+        href: "ausflug.qmd"
+    # right: 
+    #   - text: "Ausgabe 2024"
+    #     href: "2024.qmd"
 
 lang: de-CH
 format:

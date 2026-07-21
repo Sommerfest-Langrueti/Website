@@ -6,6 +6,8 @@ aliases:
 
 Wir haben uns für das Fest folgendes Programm überlegt. Natürlich ist alles freiwillig und kann auch spontant angepasst werden. An ein paar Eckpunkte werden wir uns möglichst halten. Für die Festtafel brauchen wir eine Anmeldung 🙂.
 
+- [Ausflug am Freitag](ausflug.qmd).
+
 :::{.column-body-outset}
 {{< include _programm-html.qmd >}}
 

@@ -1,5 +1,5 @@
 ---
-title: "Sommerfest"
+title: "Sommerfest 2024"
 listing:
   contents: ausgabe-2024
   sort: "date desc"
