@@ -1,0 +1,20 @@
+---
+title: FAQ
+---
+
+
+## WLAN: Wo ist es und wie lautet das Passwort?
+
+Das WLAN ist vor allem im Wohnzimmer verfügbar und lautet `sommerfest-guest` mit gleichnamigen Passwort. Hier ist ein QR Code dazu:
+
+[QR Code](images/wlan.png)
+
+## Entsorgungskonzept: Wo wird was Entsorgt?
+
+- Angeschriebene [Ikea Sorteraboxen](images/ikea-sortera.png) stehen an der Hausrücksetie zur Verfügung für: Glas, Alu, PET, Plastik (Verpackungen und Tetrapack), Karton. 
+- Für Kompost gibt es beim Fahrradständer an der Strasse ein Grüncontainer
+- Restmüll kommt in den Mülleimer links vom Haupteingang
+
+## Anfahrt: Wie komme ich zu euch und wo kann ich parkieren?
+
+Siehe "[Anreise](anreise.qmd)"

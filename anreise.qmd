@@ -6,8 +6,11 @@ Wir wohnen an der Langrütistrasse 40, Wädenswil[^home].
 
 **Öffentlicher Verkehr:** Nach Absprache gibt es Abholservice vom Bahnhof Wädenswil[^bhf-waedi]. Nächste Bushaltestelle: Wädenswil, Feld[^waedi-feld].
 
-**Auto:** Kurzfristig parken beim Pavillon[^pavillion]. Für längere Parkzeiten stehen öffentliche Parkplätze bei der St. Anna's Kapelle[^st-annas-kappele] zur Verfügung (~10 Min. Fussweg).
+**Auto:** *Kurzfristig* parken beim Pavillon[^pavillion] (Ein-/ Ausladen) und vor unserem Haus. Für längere Parkzeiten stehen öffentliche Parkplätze bei der St. Anna's Kapelle[^st-annas-kappele] zur Verfügung (~10 Min. Fussweg). 
 
+:::{.callout-note}
+Am Donnerstagabend findet im Pavillion noch eine Veranstaltung statt. Der Parkplatz sollte hier möglichst frei bleiben.
+:::
 
 {{< include _map.qmd >}}
 

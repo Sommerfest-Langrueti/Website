@@ -9,6 +9,8 @@ website:
         href: "programm.qmd"
       - text: "Anreise"
         href: "anreise.qmd"
+      - text: "FAQ: Häufige Fragen"
+        href: "FAQ.qmd"
     right: 
       - text: "Ausgabe 2024"
         href: "2024.qmd"
